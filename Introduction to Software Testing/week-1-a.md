@@ -1,5 +1,7 @@
 # Welcome to the course!
 
+![analysis square](week-1/software-testing-analysis-square.png)
+
 Hello!  And, welcome to Introduction to Software Testing, the first course in the Software Testing and Automation specialization, presented by the University of Minnesota Software Engineering Center (UMSEC).
 
 ## Who will guide our instruction? 
